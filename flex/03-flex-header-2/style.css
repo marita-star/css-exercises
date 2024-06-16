@@ -52,11 +52,12 @@ ul {
   display: flex;
   margin: 0;
   padding: 0;
-  gap: 16px;
+  gap: 8px;
 }
 
-.left, .right {
+.left,
+.right {
   display: flex;
   align-items: center;
-  gap: 16px;
+  gap: 10px;
 }
